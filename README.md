@@ -1,4 +1,4 @@
-# vist-front-linter
+# ksia-linter
 
 Правила написания кода
 
